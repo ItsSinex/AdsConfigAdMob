@@ -1,0 +1,12 @@
+{
+  "loadingtime": "5",
+  "ShowAds": "true",
+  "TimeBetweenInters": "5",
+  "TimeBetweenBanners": "5",
+  "ShowAdsScene": "true",
+  "BannerId": "ca-app-pub-3940256099942544/6300978111",
+  "InterstitialId": "ca-app-pub-3940256099942544/1033173712",
+  "RewardedId": "ca-app-pub-3940256099942544/5224354917",
+  "AppOpenId": "ca-app-pub-3940256099942544/3419835294"
+}
+
