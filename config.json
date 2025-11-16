@@ -1,5 +1,5 @@
 {
-  "loadingtime": "5",
+  "LoadingTime": "5",
   "ShowAds": "true",
   "TimeBetweenInters": "5",
   "ShowAdsScene": "false",
@@ -8,5 +8,6 @@
   "RewardedId": "ca-app-pub-3940256099942544/5224354917",
   "AppOpenId": "ca-app-pub-3940256099942544/3419835294"
 }
+
 
 
